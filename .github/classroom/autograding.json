@@ -1,0 +1,104 @@
+{
+  "tests": [
+    {
+      "name": "CircleTest.existsCircle",
+      "setup": "",
+      "run": "gradle test --tests CircleTest.existsCircle",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "CircleTest.existsAttrRadius",
+      "setup": "",
+      "run": "gradle test --tests CircleTest.existsAttrRadius",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "CircleTest.existsMethodArea",
+      "setup": "",
+      "run": "gradle test --tests CircleTest.existsMethodArea",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "CircleTest.existsMethodCircumference",
+      "setup": "",
+      "run": "gradle test --tests CircleTest.existsMethodCircumference",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "CircleTest.existsConstructor",
+      "setup": "",
+      "run": "gradle test --tests CircleTest.existsConstructor",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "CircleTest.assertCalculationArea",
+      "setup": "",
+      "run": "gradle test --tests CircleTest.assertCalculationArea",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "CircleTest.assertCalculationArea0",
+      "setup": "",
+      "run": "gradle test --tests CircleTest.assertCalculationArea0",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "CircleTest.assertCalculationCirc10",
+      "setup": "",
+      "run": "gradle test --tests CircleTest.assertCalculationCirc10",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "CircleTest.assertCalculationCirc0",
+      "setup": "",
+      "run": "gradle test --tests CircleTest.assertCalculationCirc0",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "CircleTest.notExistsEmptyConstructor",
+      "setup": "",
+      "run": "gradle test --tests CircleTest.notExistsEmptyConstructor",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
